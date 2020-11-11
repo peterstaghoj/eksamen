@@ -1,0 +1,16 @@
+{
+  "name": "programerings-eksamen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.10.13",
+    "nodemon": "^2.0.6"
+  }
+}

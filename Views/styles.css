@@ -1,0 +1,15 @@
+.login{
+position: relative; left: 10px; top: 10%;
+}
+
+.signup{
+    position: relative;right:-80%; top: 10%;
+}
+
+body{
+    background-color: aqua;
+}
+
+.admin{
+position: absolute; bottom: 5px; left: 50%;
+}
